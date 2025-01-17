@@ -1,7 +1,3 @@
-# Lung-Cancer-Classification-using-MRI-images-
-
-
-
 
 # Lung Cancer Classification on MRI Images
 
